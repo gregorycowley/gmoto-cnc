@@ -1,0 +1,9 @@
+[submodule "GroundControl"]
+	path = GroundControl
+	url = git@github.com:gregorycowley/MaslowCNC-GroundControl.git
+[submodule "Firmware"]
+	path = Firmware
+	url = git@github.com:gregorycowley/MaslowCNC-Firmware.git
+[submodule "Electronics"]
+	path = Electronics
+	url = git@github.com:gregorycowley/MaslowCNC-Electronics.git
